@@ -1,8 +1,8 @@
-1.	Introdução
+1.	Introdução   
 	O hospital Newton Turing é referência em atendimento com mais de 1.500 pacientes com diversas especialidades e possui funcionamento 24h. O diretor insatisfeito com a falta de precisão na tomada de decisão e a falta de agilidade nos procedimentos, optou por contratar um especialista em ciência de dados para a obtenção de dados estatísticos em relação aos pacientes e análises preditivas para se preparar em relação à evolução das doenças, a contratação de mais funcionários e à aquisição de materiais médicos e medicamentos. 
 	O presente relatório tem como objetivo relatar a análise do ciclo de vida para o processo de implantação de ciência de dados no hospital Newton Turing. De acordo com os estudos rea-lizados, o ciclo de vida para o processo de ciência de dados possui fases: coleta, armazenamen-to, recuperação e descarte; fatores: privacidade, integração, qualidade, direitos autorais, dissemi-nação e preservação, que intervêm em todas as fases. Possui metodologias importantes para o seu desenvolvimento, assim, como também ferramentas para realizar as análises.
 
-2.	Ciclo de Vida para o processo de ciência de dados
+3.	Ciclo de Vida para o processo de ciência de dados
 O ciclo de vida para o processo de ciência de dados é composto pelos passos necessários para a extração do conhecimento daquele conjunto de dados. Segundo Sant’Ana (2016), o ciclo de vida dos dados é composto por quatro fases: coleta, armazenamento, recuperação e descarte. Além disso, há alguns fatores que permeiam todas as fases: privacidade, integração, qualidade, direitos autorais, disseminação e preservação. Veremos cada uma delas e as suas respectivas ferramentas, assim como, uma metodologia usada para agilizar o trabalho das equipes.
 2.1 Coleta  
 O passo de coleta ocorre quando se identifica o conjunto de dados que representa o ob-jetivo de estudo.
